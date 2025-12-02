@@ -1,0 +1,49 @@
+01/11/2025 09:30 - Cliente 1: Bom dia! Tem cookie de pistache hoje?
+01/11/2025 09:45 - Luadeli: Bom dia! Temos sim, acabou de sair.
+01/11/2025 14:20 - Cliente 2: Me vê 3 cookies de pistache e 1 de kinder bueno?
+01/11/2025 14:30 - Luadeli: Saindo agora!
+03/11/2025 18:05 - Cliente 3: Oii, separa meu cookie de pistache! Passo aí já.
+03/11/2025 18:10 - Luadeli: Separado!
+03/11/2025 18:15 - Cliente 4: Todo mundo fala desse cookie de pistache. Quero provar.
+04/11/2025 10:00 - Cliente 5: Quero encomendar cookies para festa. Tem de pistache?
+05/11/2025 18:02 - Cliente 6: Boa tarde, me vê 2 cookies de kinder bueno e 1 coca.
+05/11/2025 18:05 - Cliente 7: Chegou a hora do doce! Tem banoffee?
+05/11/2025 18:20 - Cliente 3: O pistache tava muito bom. Quero mais 1 hoje.
+07/11/2025 15:00 - Cliente 8: O cookie red velvet é recheado?
+07/11/2025 18:30 - Cliente 9: Sobrou algum cookie de pistache? Pelo amor de deus.
+07/11/2025 18:35 - Luadeli: Tenho os dois últimos aqui!
+10/11/2025 18:05 - Cliente 10: Oii, quero um brownie e um cookie de pistache.
+10/11/2025 18:12 - Cliente 11: Me vê 4 cookies de pistache por favor. Viciei.
+11/11/2025 13:40 - Cliente 12: Tem banoffee no pote hoje?
+12/11/2025 18:00 - Cliente 5: Boa tarde! Vou querer 4 cookies de kinder bueno pra levar.
+12/11/2025 18:10 - Cliente 13: Tem promoção de pistache hoje?
+13/11/2025 09:00 - Cliente 14: Bom dia, vcs abrem sábado? Quero pavê.
+14/11/2025 18:05 - Cliente 3: Sextou! Separa meu cookie de pistache de sempre?
+14/11/2025 18:06 - Cliente 15: Quero um cookie red velvet e um de pistache.
+14/11/2025 18:15 - Cliente 16: O banoffee de vcs é o melhor da cidade.
+17/11/2025 18:01 - Cliente 17: Oii, entrega 2 cookies de kinder bueno na rua das flores?
+17/11/2025 18:20 - Cliente 18: Quero um brownie, aceita pix?
+18/11/2025 10:30 - Cliente 19: Qual o valor do pavê no pote?
+19/11/2025 18:05 - Cliente 20: Me salva, preciso de doce! Tem cookie de pistache?
+19/11/2025 18:10 - Cliente 5: Mais 2 cookies de kinder bueno por favor.
+20/11/2025 09:15 - Cliente 1: Bom dia, vcs tem pavê hoje?
+20/11/2025 12:05 - Cliente 2: Qual o valor da entrega? Quero cookie de pistache.
+20/11/2025 18:05 - Cliente 3: Oii, separa 2 cookies de red velvet pra mim pfv!
+20/11/2025 18:07 - Cliente 4: Tem brownie ainda? Quero um.
+20/11/2025 18:15 - Cliente 5: Boa tarde, aceita pix? Quero cookie de pistache.
+20/11/2025 18:45 - Cliente 6: Nossa, esse cookie de pistache estava divino.
+21/11/2025 13:00 - Cliente 7: Vcs fazem pavê grande para festa?
+21/11/2025 18:01 - Cliente 9: Oiee, quero encomendar brownie pra levar pra casa.
+21/11/2025 18:10 - Cliente 3: Oii, quero repetir a dose. Mais 2 cookies kinder bueno!
+21/11/2025 18:15 - Cliente 10: Tem pronta entrega de banoffee?
+22/11/2025 10:00 - Cliente 12: Bom dia, saiu pistache hoje?
+22/11/2025 18:05 - Cliente 13: Me vê 3 cookies de pistache e 1 brownie.
+24/11/2025 18:00 - Cliente 21: Segunda brava, preciso de um cookie de pistache.
+24/11/2025 18:05 - Cliente 22: Tem aquele cookie red velvet?
+25/11/2025 14:00 - Cliente 23: Boa tarde, o brownie é recheado?
+26/11/2025 18:10 - Cliente 3: Oii, guarda o meu pistache! Tô passando aí.
+26/11/2025 18:15 - Cliente 24: Quero 5 cookies de pistache pra viagem.
+27/11/2025 18:02 - Cliente 25: Tem cookie sem glúten?
+28/11/2025 18:05 - Cliente 5: Sexta feira pede doce! Manda 2 cookies de pistache.
+28/11/2025 18:20 - Cliente 26: Tem banoffee?
+30/11/2025 15:00 - Cliente 28: Vocês tem pavê hoje?
